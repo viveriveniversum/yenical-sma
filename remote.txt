@@ -1,1 +1,2 @@
 Remote oncesi bir yazı
+Local'deki bir satırlık değişiklik.
